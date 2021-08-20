@@ -6,6 +6,7 @@
      "jest": true
   },
   "rules": {
+    "eslint linebreak-style": ["error", "windows"],
     "no-restricted-syntax": [
       "error",
       "LabeledStatement",
